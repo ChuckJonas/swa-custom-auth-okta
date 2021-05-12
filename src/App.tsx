@@ -18,12 +18,10 @@ const AuthStuff = () => {
     <>
       <StaticWebAuthLogins
         azureAD={false}
-        facebook={false}
         github={false}
-        google={false}
         twitter={false}
+        customProviders={[{ id: "okta", name: "Okta" }]}
       />
-      <a href="/.auth/login/okta">Okta</a>
     </>
   );
 };
