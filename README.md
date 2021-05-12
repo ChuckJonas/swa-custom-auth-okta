@@ -2,6 +2,8 @@
 
 This repository contains an example of how to use Okta as a custom auth provider to [Azure Static Web App](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-28109-aapowell). You can read about how to implement this [on my blog](https://www.aaron-powell.com/posts/2021-05-13-using-okta-with-static-web-apps/).
 
+[Live Demo](https://blue-bay-0eac9b910.azurestaticapps.net).
+
 ## Azure Static Website React Template
 
 This repository contains a template for creating an [Azure Static Web App](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-28109-aapowell) projects using React + TypeScript.

@@ -21,6 +21,7 @@ const AuthStuff = () => {
         facebook={false}
         github={false}
         google={false}
+        twitter={false}
       />
       <a href="/.auth/login/okta">Okta</a>
     </>
