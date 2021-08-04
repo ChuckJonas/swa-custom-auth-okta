@@ -9,7 +9,7 @@
               "clientSecretSettingName": "OKTA_SECRET"
             },
             "openIdConnectConfiguration": {
-              "wellKnownOpenIdConfiguration": "https://dev-920852.okta.com/.well-known/openid-configuration"
+              "wellKnownOpenIdConfiguration": "https://dev-96453639.okta.com/.well-known/openid-configuration"
             }
           },
           "login": {
